@@ -1,0 +1,7 @@
+CREATE TABLE customer (
+    [id] INT IDENTITY (1, 1) NOT NULL,
+    [firstname] NVARCHAR (50) NOT NULL,
+    [lastname] NVARCHAR (50) NOT NULL,
+    [telephone] NVARCHAR (10) NOT NULL,
+    PRIMARY KEY CLUSTERED ([id] ASC)
+);

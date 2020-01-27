@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Banque.Classes
 {
-    class Client
+    class Account
     {
     }
 }
