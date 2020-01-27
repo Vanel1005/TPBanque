@@ -1,0 +1,15 @@
+C:\Users\Administrateur\Source\Repos\m2imcpd\TPBanque\Banque\bin\Debug\Banque.exe.config
+C:\Users\Administrateur\Source\Repos\m2imcpd\TPBanque\Banque\bin\Debug\Banque.exe
+C:\Users\Administrateur\Source\Repos\m2imcpd\TPBanque\Banque\bin\Debug\Banque.pdb
+C:\Users\Administrateur\Source\Repos\m2imcpd\TPBanque\Banque\obj\Debug\Banque.csprojAssemblyReference.cache
+C:\Users\Administrateur\Source\Repos\m2imcpd\TPBanque\Banque\obj\Debug\MainWindow.g.cs
+C:\Users\Administrateur\Source\Repos\m2imcpd\TPBanque\Banque\obj\Debug\App.g.cs
+C:\Users\Administrateur\Source\Repos\m2imcpd\TPBanque\Banque\obj\Debug\Banque_MarkupCompile.cache
+C:\Users\Administrateur\Source\Repos\m2imcpd\TPBanque\Banque\obj\Debug\Banque_MarkupCompile.lref
+C:\Users\Administrateur\Source\Repos\m2imcpd\TPBanque\Banque\obj\Debug\MainWindow.baml
+C:\Users\Administrateur\Source\Repos\m2imcpd\TPBanque\Banque\obj\Debug\Banque.g.resources
+C:\Users\Administrateur\Source\Repos\m2imcpd\TPBanque\Banque\obj\Debug\Banque.Properties.Resources.resources
+C:\Users\Administrateur\Source\Repos\m2imcpd\TPBanque\Banque\obj\Debug\Banque.csproj.GenerateResource.cache
+C:\Users\Administrateur\Source\Repos\m2imcpd\TPBanque\Banque\obj\Debug\Banque.csproj.CoreCompileInputs.cache
+C:\Users\Administrateur\Source\Repos\m2imcpd\TPBanque\Banque\obj\Debug\Banque.exe
+C:\Users\Administrateur\Source\Repos\m2imcpd\TPBanque\Banque\obj\Debug\Banque.pdb

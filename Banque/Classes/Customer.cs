@@ -23,7 +23,13 @@ namespace Banque.Classes
 
         public void Save()
         {
+            //fonction pour enregistrer dans la BDD
+        }
 
+        public Customer Get()
+        {
+            //fonction pour recupeer un user
+            return new Customer();
         }
     }
 }

@@ -1,3 +1,12 @@
+Creer BDD :
+    sqllocaldb c BanqueApp
+    sqllocaldb s BanqueApp
+    Explorateur de serveur > ajouter une conexion
+        (localdb)\BanqueApp
+
+        
+Creer les tables :
+
 CREATE TABLE customer (
     [id] INT IDENTITY (1, 1) NOT NULL,
     [firstname] NVARCHAR (50) NOT NULL,
