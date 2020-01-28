@@ -1,0 +1,17 @@
+﻿<Window x:Class="Banque.Windows.Operation"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Banque.Windows"
+        mc:Ignorable="d"
+        Title="Operation" Height="450" Width="800">
+    <Grid x:Name="mainGrid">
+        <Label Content="Numero de compte : 123181324" HorizontalAlignment="Left" Margin="10,10,0,0" VerticalAlignment="Top" Height="70" Width="774" FontSize="36"/>
+        <Label Content="Type d'operation : Depot/retrait" HorizontalAlignment="Left" Margin="10,85,0,0" VerticalAlignment="Top" Height="70" Width="774" FontSize="36"/>
+        <Label Content="Montant de l'opération :" HorizontalAlignment="Left" Margin="10,160,0,0" VerticalAlignment="Top" Height="70" Width="406" FontSize="36"/>
+        <TextBox HorizontalAlignment="Left" Height="70" Margin="10,237,0,0" TextWrapping="Wrap" Text="1000000000" VerticalAlignment="Top" VerticalContentAlignment="Center" Width="774" FontSize="36" CharacterCasing="Lower" MaxLength="10" MaxLines="1" BorderThickness="1,0,1,1" Background="#FFAFD5E8"/>
+        <Button Content="Annuler" HorizontalAlignment="Left" Margin="10,330,0,0" VerticalAlignment="Top" Width="370" Height="80" Background="#FFF03D16"/>
+        <Button Content="Valider" HorizontalAlignment="Left" Margin="411,330,0,0" VerticalAlignment="Top" Width="370" Height="80" Background="#FF16F07E"/>
+    </Grid>
+</Window>
